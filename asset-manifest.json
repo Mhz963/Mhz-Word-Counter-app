@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mhz-Word-Counter-app/static/css/main.b070d735.css",
+    "main.js": "/Mhz-Word-Counter-app/static/js/main.7d6a8cee.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Mhz-Word-Counter-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Mhz-Word-Counter-app/index.html",
+    "main.b070d735.css.map": "/Mhz-Word-Counter-app/static/css/main.b070d735.css.map",
+    "main.7d6a8cee.js.map": "/Mhz-Word-Counter-app/static/js/main.7d6a8cee.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Mhz-Word-Counter-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b070d735.css",
+    "static/js/main.7d6a8cee.js"
+  ]
+}
